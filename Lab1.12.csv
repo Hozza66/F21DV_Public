@@ -1,3 +1,2 @@
-shape,x,y,width,height,color
-rect,50,20,100,100,green
-rect,100,100,20,20,red
+shape,x,y,cx,cy,rx,ry,r,width,height,color
+rect,0,0,,,,,,50,50,green
