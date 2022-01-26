@@ -2,4 +2,4 @@ shape,x,y,cx,cy,rx,ry,r,width,height,x1,y1,x2,y2,color
 rect,0,0,,,,,,50,50,,,,,green
 circle,,,300,300,,,25,,,,,,,red
 ellipse,,,200,200,150,100,,,,,,,,purple
-line,,,,,,,,,,20,20,80,80,yellow
+line,,,,,,,,,,0,0,400,400,yellow
